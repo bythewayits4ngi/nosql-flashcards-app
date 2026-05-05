@@ -1,0 +1,20 @@
+Vorgehensweise:
+
+04.05.2026
+- Thema ausgewählt (Lernkarten)
+- MongoDB recherchiert
+- MongoDB lokal installiert
+- Abhängigkeiten installiert
+- (MongoDB m. Admin per Request installieren, alternativ Docker nehmen)
+- Docker mit Docker Compose verwendet um DB zu starten zum Test (wegen Adminrechten)
+- API - Auswahl: Flask, FastAPi, Django, expressDB
+- FastAPI ausgewählt (kann Python types handlen/automatisch zuweisen)
+- requirements.txt mit notwendigen Abhängigkeiten angelegt (Kann über "python pip install -r requirements.txt" installiert werden)
+- Erstes Datenmodell entworfen
+- Git Repo angelegt
+
+TO DO:
+- Rest API Anfragen schreiben und testen
+- Auf Dokumentation achten
+- 
+- Frontend mit KI bauen
