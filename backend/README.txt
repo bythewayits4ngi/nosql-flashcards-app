@@ -14,21 +14,22 @@ Vorgehensweise:
 - Git Repo angelegt
 - Git Branches angelegt
 - Lokalen Code ins Repo gepusht
+- Pull Request erstelt
 - Branches gemergt
 - VSCode Git Probleme gelöst
 - Client getestet
 - Datenmodell getestet
+- Testdatensätze eingefügt
 - 
 
-Projekt starten:
-- requirements.txt installieren
-- MongoDB installieren ODER über Docker
-- Docker-compose.yaml starten oder im Terminal docker-compose up
-
 TO DO:
+- CRUD Anfragen testen
 - Rest API Anfragen schreiben und testen
 - Auf Dokumentation achten
 - 
 - Frontend mit KI bauen
 
 
+Reflexion:
+- GitHub hat zu Problemen geführt
+- 
