@@ -1,0 +1,13 @@
+Questions:
+- Müssen die Bibliotheken, wie "pymongo" extra installiert werden, damit ich sie verwenden (importieren) kann?
+- Kann ich, wenn ich es dem Client ermögliche Karten hinzuzufügen/zu bearbeiten, das CurrentDate für CreatedAt/EditedAt verwenden? Wenn ja, wie?
+- 
+
+
+Wir müssen ein "seed.py"-Skript schreiben, um unsere Beispiel-Karten zur Datenbank hinzuzufügen
+Damit unser Client nicht direkt mit der Datenbank kommuniziert, nutzen wir in unserem Api-Skript "pymongo", um die Verbindung zur Datenbank herzustellen
+-- Also: 
+1. Verbindung mit Datenbank
+2. API-Endpunkt erstellen (Read)
+3. Client ruft API auf
+

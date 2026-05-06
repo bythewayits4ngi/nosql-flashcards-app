@@ -1,0 +1,20 @@
+{
+    "cards": {
+        "_id": "ID_PLACEHOLDER",
+        "question": "QUESTION_PLACEHOLDER",
+        "answer": "ANSWER_PLACEHOLDER",
+        "category": "CATEGORY_PLACEHOLDER",
+        "level": "LAVEL_PLACEHOLDER",
+        "tags": "TAGS_PLACEHOLDER_LIST",
+        "created_at": "CREATED_AT_PLACEHOLDER", 
+        "edited_at": "EDITED_AT_PLACEHOLDER"
+    },
+    "beispiel": { 
+        "question": "Was bedeutet CRUD?",
+        "answer": "Create, Read, Update, Delete",
+        "category": "Informatik",
+        "level": 1,
+        "tags": ["Programmierung", "REST"],
+        "created_at": "2026-05-04T13:00:00"
+    }
+}
